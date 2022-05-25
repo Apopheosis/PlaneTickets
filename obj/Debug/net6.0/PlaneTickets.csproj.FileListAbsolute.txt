@@ -1,0 +1,122 @@
+F:\sharp projects\PlaneTickets\obj\Debug\net6.0\PlaneTickets.csproj.AssemblyReference.cache
+F:\sharp projects\PlaneTickets\obj\Debug\net6.0\PlaneTickets.GeneratedMSBuildEditorConfig.editorconfig
+F:\sharp projects\PlaneTickets\obj\Debug\net6.0\PlaneTickets.AssemblyInfoInputs.cache
+F:\sharp projects\PlaneTickets\obj\Debug\net6.0\PlaneTickets.AssemblyInfo.cs
+F:\sharp projects\PlaneTickets\obj\Debug\net6.0\PlaneTickets.csproj.CoreCompileInputs.cache
+F:\sharp projects\PlaneTickets\obj\Debug\net6.0\PlaneTickets.MvcApplicationPartsAssemblyInfo.cs
+F:\sharp projects\PlaneTickets\obj\Debug\net6.0\PlaneTickets.MvcApplicationPartsAssemblyInfo.cache
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\appsettings.Development.json
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\appsettings.json
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\PlaneTickets.exe
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\PlaneTickets.deps.json
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\PlaneTickets.runtimeconfig.json
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\PlaneTickets.dll
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\PlaneTickets.pdb
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\sharp projects\PlaneTickets\obj\Debug\net6.0\staticwebassets.build.json
+F:\sharp projects\PlaneTickets\obj\Debug\net6.0\staticwebassets.development.json
+F:\sharp projects\PlaneTickets\obj\Debug\net6.0\scopedcss\bundle\PlaneTickets.styles.css
+F:\sharp projects\PlaneTickets\obj\Debug\net6.0\PlaneTickets.csproj.CopyComplete
+F:\sharp projects\PlaneTickets\obj\Debug\net6.0\PlaneTickets.dll
+F:\sharp projects\PlaneTickets\obj\Debug\net6.0\refint\PlaneTickets.dll
+F:\sharp projects\PlaneTickets\obj\Debug\net6.0\PlaneTickets.pdb
+F:\sharp projects\PlaneTickets\obj\Debug\net6.0\PlaneTickets.genruntimeconfig.cache
+F:\sharp projects\PlaneTickets\obj\Debug\net6.0\ref\PlaneTickets.dll
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\AutoMapper.dll
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\JetBrains.Annotations.dll
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\Json.More.dll
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\JsonPointer.Net.dll
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\JsonSchema.Net.dll
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\JsonValidatorExtensions.dll
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\System.Runtime.InteropServices.WindowsRuntime.dll
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\JsonValidatorTool.dll
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\System.ComponentModel.Composition.dll
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\Npgsql.dll
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\System.Text.Json.dll
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\Humanizer.dll
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\Mono.TextTemplating.dll
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\System.CodeDom.dll
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\RefundJsonSchema.json
+F:\sharp projects\PlaneTickets\bin\Debug\net6.0\SaleJsonSchema.json
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\appsettings.Development.json
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\appsettings.json
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\RefundJsonSchema.json
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\SaleJsonSchema.json
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\PlaneTickets.exe
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\PlaneTickets.deps.json
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\PlaneTickets.runtimeconfig.json
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\PlaneTickets.dll
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\PlaneTickets.pdb
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\AutoMapper.dll
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\Humanizer.dll
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\JetBrains.Annotations.dll
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\Json.More.dll
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\JsonPointer.Net.dll
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\JsonSchema.Net.dll
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\JsonValidatorExtensions.dll
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\System.Runtime.InteropServices.WindowsRuntime.dll
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\JsonValidatorTool.dll
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\System.ComponentModel.Composition.dll
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\Mono.TextTemplating.dll
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\Npgsql.dll
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\System.CodeDom.dll
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\System.Text.Json.dll
+F:\sharpprojects\PlaneTickets\obj\Debug\net6.0\PlaneTickets.csproj.AssemblyReference.cache
+F:\sharpprojects\PlaneTickets\obj\Debug\net6.0\PlaneTickets.GeneratedMSBuildEditorConfig.editorconfig
+F:\sharpprojects\PlaneTickets\obj\Debug\net6.0\PlaneTickets.AssemblyInfoInputs.cache
+F:\sharpprojects\PlaneTickets\obj\Debug\net6.0\PlaneTickets.AssemblyInfo.cs
+F:\sharpprojects\PlaneTickets\obj\Debug\net6.0\PlaneTickets.csproj.CoreCompileInputs.cache
+F:\sharpprojects\PlaneTickets\obj\Debug\net6.0\PlaneTickets.MvcApplicationPartsAssemblyInfo.cs
+F:\sharpprojects\PlaneTickets\obj\Debug\net6.0\PlaneTickets.MvcApplicationPartsAssemblyInfo.cache
+F:\sharpprojects\PlaneTickets\obj\Debug\net6.0\staticwebassets.build.json
+F:\sharpprojects\PlaneTickets\obj\Debug\net6.0\staticwebassets.development.json
+F:\sharpprojects\PlaneTickets\obj\Debug\net6.0\scopedcss\bundle\PlaneTickets.styles.css
+F:\sharpprojects\PlaneTickets\obj\Debug\net6.0\PlaneTickets.csproj.CopyComplete
+F:\sharpprojects\PlaneTickets\obj\Debug\net6.0\PlaneTickets.dll
+F:\sharpprojects\PlaneTickets\obj\Debug\net6.0\refint\PlaneTickets.dll
+F:\sharpprojects\PlaneTickets\obj\Debug\net6.0\PlaneTickets.pdb
+F:\sharpprojects\PlaneTickets\obj\Debug\net6.0\PlaneTickets.genruntimeconfig.cache
+F:\sharpprojects\PlaneTickets\obj\Debug\net6.0\ref\PlaneTickets.dll
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\Newtonsoft.Json.Schema.dll
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\NLog.dll
+F:\sharpprojects\PlaneTickets\bin\Debug\net6.0\NLog.Extensions.Logging.dll
